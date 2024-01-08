@@ -7,7 +7,7 @@
     LICENSE file in the root directory of this source tree.
 -->
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest xmlns:android="http://schemas.aji ppndroid.com/apk/res/android"
     package="com.facebook.messenger">
 
     <application android:supportsRtl="true">
